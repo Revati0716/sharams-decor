@@ -1,4 +1,4 @@
-# Sharam's Decor
+##Sharma Decor
 
 A starter full-stack marketplace for handmade Indian home and festive decorations.
 
